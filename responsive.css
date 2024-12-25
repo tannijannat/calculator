@@ -1,0 +1,29 @@
+@media (min-width: 320px) and (max-width: 767px) 
+{
+    .intro {
+        background-color: #dce1e5;
+        width: 100%;
+    }
+    .student {
+        background-color: #dce1e5;
+        padding-bottom: 200px;
+        width: 100%;
+    }
+    .student ul {
+
+     
+        flex-direction: column;
+        gap: 15px;
+        padding: 10px;
+    }
+
+
+    .student ul li a img {
+        width: 100px;
+        border-radius: 50%;
+        border: 5px solid red;
+    }
+
+
+
+}
