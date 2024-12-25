@@ -4,11 +4,14 @@
         background-color: #dce1e5;
         width: 100%;
     }
+
     .student {
         background-color: #dce1e5;
         padding-bottom: 200px;
         width: 100%;
+        padding-top: 120px;
     }
+
     .student ul {
 
      
@@ -21,7 +24,7 @@
     .student ul li a img {
         width: 100px;
         border-radius: 50%;
-        border: 5px solid red;
+        border: 5px solid #0eb795;
     }
 
 
